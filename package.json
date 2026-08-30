@@ -1,0 +1,30 @@
+{
+  "name": "automata-ai-lab",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^2.19.0",
+    "cytoscape": "^3.34.2",
+    "dotenv": "^17.4.2",
+    "katex": "^0.16.47",
+    "lucide-react": "^0.263.1",
+    "mermaid": "^11.17.2",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-katex": "^3.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.5.4",
+    "postcss": "^8.5.26",
+    "tailwindcss": "^3.4.19",
+    "vite": "^4.4.5"
+  }
+}
